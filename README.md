@@ -1,3 +1,3 @@
-Name : Mohan Krishna Kanaparthi
-Project Title : Lab 3
-Student number : 8973451
+Name: Mohan Krishna Kanaparthi
+Project Title: Lab 3
+Student number: 8973451
