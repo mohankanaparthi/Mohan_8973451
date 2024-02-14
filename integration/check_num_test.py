@@ -2,7 +2,7 @@ import numCheck
 
 
 def test_check_the_num():
-  testNumber = 6
+  testNumber = -3
   result = numCheck.NumberCheck(testNumber)
   
-  assert result == -3, "The number is not negative"
+  assert result == Positive, "The number is not a positive number"
