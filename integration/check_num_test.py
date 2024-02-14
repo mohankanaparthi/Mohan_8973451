@@ -1,7 +1,7 @@
 import numCheck
 
 
-def check_the_num(mynum):
+def test_check_the_num(mynum):
   testNumber = 6
   result = numCheck.NumberCheck(testNumber)
   
