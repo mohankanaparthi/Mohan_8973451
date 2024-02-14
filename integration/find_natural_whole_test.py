@@ -2,7 +2,7 @@
 import natural_whole_num
 
 
-def test_check_natural_whole(mynum):
+def test_check_natural_whole():
   testNumber = -2
   result = check_number_type.NumberCheck(testNumber)
   
